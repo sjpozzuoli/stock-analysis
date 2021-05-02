@@ -33,3 +33,7 @@
 3. If reviewing code with a colleague or teacher, they may be able to understand your code much easier when it is refactored.
 
 #### The only real disadvantage I can see is that it is a time consuming process to refactor code. If you have a deadline to meet and the amount of time it will take to refactor the code is not available, the original code must be used.
+
+#### Speaking directly about this project, the one major advantage that was seen was the time decrease in the running of the code. While the original code only took a little over 1 second to run, and this is by no means a deal breaker to complete the project, it could be an issue if we had to run this code using more data. The other advantage was making the code much easier to understand and more concise, which allowed me to fix problems much easier, being as though there was less code to examine. All in all, using the refactored code was much better than using the original code.
+
+#### As with refactoring code in general, the only disadvantage I saw with my newly refactored code was the time it took to actually perform the refactoring. 
