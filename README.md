@@ -1,6 +1,6 @@
 # Analysis of the Performance of Green Stocks in 2017 and 2018
 
-### The analysis of the Green Stocks was completed in order to help determine a suitable investment in the Green Energy sector of the stock market. The original code was created with multiple loops and would not be efficient to run if trying to compare hundreds or thousands of different stock tickers. The purpose of refactoring the code was to make it more efficient by creating an index that would run through the tickers in one loop, thus making it run much faster. 
+### The analysis of the Green Stocks was completed in order to help determine a suitable investment in the Green Energy sector of the stock market. The original code was created with multiple loops and would not be efficient if trying to compare hundreds or thousands of different stock tickers. The purpose of refactoring the code was to make it more efficient by creating an index that would run through the tickers in one loop, thus making it run much faster. 
 
 ## Stock Analysis
 
