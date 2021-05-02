@@ -8,4 +8,6 @@
 
 ![All_Stocks_2017](https://user-images.githubusercontent.com/81929616/116821442-e6e92980-ab47-11eb-95df-3b5ce8485c1e.png)
 
-#### However, after running the same information for the year 2018, you can see 
+#### However, after running the same information for the year 2018, you can see that the returns differed drastically. The volatility shown in this area of the market is very high and requires research to be undertaken for multiple years before determining an appropriate investment. The only two stocks that had a positive return for both 2017 and 2018 were ENPH and RUN.
+
+![All_Stocks_2018](https://user-images.githubusercontent.com/81929616/116821565-65de6200-ab48-11eb-93a0-fea46a1a563f.png)
