@@ -20,3 +20,7 @@
 
 ![Original_Code_2017](https://user-images.githubusercontent.com/81929616/116821787-472c9b00-ab49-11eb-86d2-714266e43a35.png) ![Original_Code_2018](https://user-images.githubusercontent.com/81929616/116821793-4b58b880-ab49-11eb-961c-d463d083e918.png)
 
+#### If there were hundreds or thousands of tickers to analyze, the wait time would be very lengthy without refactoring the code. By creating a ticker index and allowing it to run through the analysis in one loop, we were able to reduce the amount of time the code took to complete by almost 90%. This would ultimately be immensely important if the data was much larger and required a much more robust analysis. The screenshots of the timing show how much more efficient the refactored code is.
+
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/81929616/116821978-64159e00-ab4a-11eb-8aca-ded23dbf85f3.png) ![VBA_Challenge_2018](https://user-images.githubusercontent.com/81929616/116821981-67a92500-ab4a-11eb-92e6-83d36830f340.png)
+
