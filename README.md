@@ -11,3 +11,12 @@
 #### However, after running the same information for the year 2018, you can see that the returns differed drastically. The volatility shown in this area of the market is very high and requires research to be undertaken for multiple years before determining an appropriate investment. The only two stocks that had a positive return for both 2017 and 2018 were ENPH and RUN.
 
 ![All_Stocks_2018](https://user-images.githubusercontent.com/81929616/116821565-65de6200-ab48-11eb-93a0-fea46a1a563f.png)
+
+#### In conclusion, there only seem to be two suitable stocks to invest in based on the yearly returns: ENPH and RUN. There are many risks involved, as seen with the drastic differences between returns in 2017 and 2018 with almost all of the stocks inolved.
+
+## Refactoring the Original Code
+
+#### The second part of this project was to refactor the original code to make the analysis run more quickly. The origninal code was not efficient and provided longer wait times, even though there were only 12 stock tickers to run through.
+
+![Original_Code_2017](https://user-images.githubusercontent.com/81929616/116821787-472c9b00-ab49-11eb-86d2-714266e43a35.png) ![Original_Code_2018](https://user-images.githubusercontent.com/81929616/116821793-4b58b880-ab49-11eb-961c-d463d083e918.png)
+
