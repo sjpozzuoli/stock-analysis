@@ -12,7 +12,7 @@
 
 ![All_Stocks_2018](https://user-images.githubusercontent.com/81929616/116821565-65de6200-ab48-11eb-93a0-fea46a1a563f.png)
 
-#### In conclusion, there only seem to be two suitable stocks to invest in based on the yearly returns: ENPH and RUN. There are many risks involved, as seen with the drastic differences between returns in 2017 and 2018 with almost all of the stocks inolved.
+#### In conclusion, there only seem to be two suitable stocks to invest in based on the yearly returns: ENPH and RUN. There are many risks involved, as seen with the drastic differences between returns in 2017 and 2018 with almost all of the stocks involved.
 
 ## Refactoring the Original Code
 
