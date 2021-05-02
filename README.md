@@ -24,3 +24,12 @@
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/81929616/116821978-64159e00-ab4a-11eb-8aca-ded23dbf85f3.png) ![VBA_Challenge_2018](https://user-images.githubusercontent.com/81929616/116821981-67a92500-ab4a-11eb-92e6-83d36830f340.png)
 
+## Summary
+
+#### When it comes to refactoring code in general, I feel there are far more advantages than disadvtanges.
+
+1. Refactored code runs much faster than the code that is not refactored. If the analysis needs to be conducted on very large amounts of data, the time saved using this refactored code could be helpful.
+2. Refactored code is broken down in a clearer manner for the developer and is more concise. If there is an issue with it, it will be easier to identify and fix.
+3. If reviewing code with a colleague or teacher, they may be able to understand your code much easier when it is refactored.
+
+#### The only real disadvantage I can see is that it is a time consuming process to refactor code. If you have a deadline to meet and the amount of time it will take to refactor the code is not available, the original code must be used.
