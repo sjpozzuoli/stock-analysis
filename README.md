@@ -26,7 +26,7 @@
 
 ## Summary
 
-#### When it comes to refactoring code in general, I feel there are far more advantages than disadvtanges.
+#### When it comes to refactoring code in general, I feel there are far more advantages than disadvantages.
 
 1. Refactored code runs much faster than the code that is not refactored. If the analysis needs to be conducted on very large amounts of data, the time saved using this refactored code could be helpful.
 2. Refactored code is broken down in a clearer manner for the developer and is more concise. If there is an issue with it, it will be easier to identify and fix.
